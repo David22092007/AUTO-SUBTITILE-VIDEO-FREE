@@ -495,7 +495,7 @@ def dub_movie(input_video_path, output_dir, api_keys, source_language, target_la
 if __name__ == "__main__":
     input_video = "C:/Videos/demo.mp4"
     output_dir = "C:/Projects/dubbed_movie"
-    api_keys = ['AIzaSyDttABzgK2Nft55TKGsZK7a-6qPdRG9Dug', 'AIzaSyB1BLonp1Hr7TYDOwphxUPZDjMF8jLrS6s']
+    api_keys = ['Pase_Api_google_gemini_here_0', 'Pase_Api_google_gemini_here_1'] # 2 API Google Gemini  Ví dụ ['AIzaxxxxxx','AIzaSyB1xxxxx'] # không được thì liên hệ mình 0.9.4.5.3.0.6.1.3.5 mình hỗ trợ tạo api google gemini
     analyze_file_path=output_dir+str('/analyze/video_analyze_languae.mp4')
     cut_video_clip_30s(input_video,analyze_file_path)
     source_language = detect_langue(analyze_file_path)
