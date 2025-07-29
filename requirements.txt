@@ -1,0 +1,16 @@
+moviepy
+SpeechRecognition
+deep-translator
+gtts
+pydub
+librosa
+webrtcvad
+numpy
+scipy
+soundfile
+matplotlib
+seaborn
+pandas
+ipython
+google-generativeai
+whisper
